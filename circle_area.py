@@ -8,6 +8,9 @@ elif:
     d = int(input("enter the diameter: "))
     area = (pi * d *d )/4
     print(area)
+else:
+    print("unknown entery")
+    
 
 else:
     print("unknown entery")
