@@ -4,8 +4,11 @@ if w == "r" :
     r = int(input("enter the radius: "))
     area = pi * r *r
     print(area)
-else:
+elif:
     d = int(input("enter the diameter: "))
     area = (pi * d *d )/4
     print(area)
+else:
+    print("unknown entery")
+    
 
