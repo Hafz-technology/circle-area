@@ -12,5 +12,3 @@ else:
     print("unknown entery")
     
 
-else:
-    print("unknown entery")
